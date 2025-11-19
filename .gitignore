@@ -1,0 +1,10 @@
+# Ignore Python virtual environment
+.venv/
+
+# Ignore data files
+*.csv
+*.zip
+
+
+# Ignore Python cache
+__pycache__/
